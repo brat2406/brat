@@ -1,3 +1,4 @@
+##  Analysis of SQL injection vulnerabilities in s-cms school website building system (including applets)
 ### Vulnerability Analysis
 In the file \qpqywz-v5.0.0325\4.edu.scms5\admin\ajax.php, the parameter $sql is not strictly filtered.
 <img width="418" alt="图片" src="https://user-images.githubusercontent.com/128341787/226555568-f9c8620f-7a87-4757-ae74-8262407eae96.png">
